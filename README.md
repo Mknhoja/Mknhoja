@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mknhoja (Mekan Hojayev
+- 👋 Hi, I’m @Mknhoja "Mekan Hojayev"
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Data Analysis with Python
 - 💞️ I’m looking to collaborate on Data Analysis
